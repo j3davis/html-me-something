@@ -1,5 +1,5 @@
 body {
-    background-color: lightyellow;
+    background-color: white;
   }
 
 
@@ -7,6 +7,9 @@ p{
     font-family: Arial;  
 }
 #Introduction {
-    color: rgb(235, 8, 45);
     
+color: crimson    
+}
+#boxing{
+color: crimson   
 }
